@@ -6,8 +6,11 @@ Simply put, I want to a create a project that will facilitate the following goal
 
 1.  Allow a user to easily deploy a streaming music server on their home computer or anywhere else
 2.  Develop Mobile, Web, and Desktop clients to interact with this server
+  
   2A.  The client should be able to search a variety of sources for music, including Youtube, LibreVox, etc, and download music from these sources to the server library
+  
   2B.  The client should be able to sync the user's library from the server and keep an offline copy of the library.
+  
   2C.  The process of creating the officially-supported client should be so well documented that creating new clients for other platforms is child's play.  
   
   
